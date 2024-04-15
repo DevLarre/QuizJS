@@ -1,0 +1,33 @@
+# Quiz 🧠
+
+Este é um projeto de um Quiz simples em HTML, CSS e JavaScript, onde você pode testar seus conhecimentos respondendo a uma série de perguntas sobre programação.
+
+## Funcionalidades
+
+- Responder perguntas de múltipla escolha sobre programação.
+- Verificar a porcentagem de acertos à medida que você avança nas perguntas.
+- Receber um feedback sobre o desempenho após completar o Quiz.
+- Reiniciar o Quiz para tentar novamente.
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+
+## Como Usar
+
+1. Clone este repositório para o seu ambiente local.
+2. Abra o arquivo `index.html` em seu navegador.
+3. Responda às perguntas clicando na opção desejada.
+4. A barra de progresso indica o progresso do Quiz.
+5. Após responder todas as perguntas, você receberá um feedback com a porcentagem de acertos e o número total de perguntas respondidas corretamente.
+6. Clique no botão "Fazer novamente" para reiniciar o Quiz e tentar melhorar seu desempenho.
+
+## Contato
+
+Para mais informações ou feedback, entre em contato:
+
+- GitHub: [DevLarré](https://github.com/DevLarre)
+- Instagram: [dev_larre](https://www.instagram.com/dev_larre?igsh=NXM0cWhuZjg2Z2d2&utm_source=qr)
+- LinkedIn: [devlarre](https://www.linkedin.com/in/devlarre/)
